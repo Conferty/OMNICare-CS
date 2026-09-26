@@ -1,0 +1,6 @@
+{
+  "name": "OmniCare AI - Customer Service Chatbot",
+  "description": "Platform Customer Service Chatbot bertenaga AI dengan multi-domain (kesehatan, edukasi, hobi), switch gaya bahasa (formal/santai), memory interaksi pelanggan, integrasi API, dan rekomendasi cerdas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
